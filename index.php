@@ -1,3 +1,3 @@
 <?php
-	echo "yang";
+	echo "yangqiao";
 ?>
